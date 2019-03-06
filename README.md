@@ -1,0 +1,2 @@
+# Web-Scrapping-Python
+Requisites:  pip install requests pip install bs4 or pip install beautifulsoup4 pip install pandas pip install lxml or  pip install html5lib  Store the Results: filename: output.json  Note: After running the program, we will obtain the squeezed text. We can copy  and paste  it in a text file.( I have saved as Output_Web_Scrapping.txt)  It will take some time to create the json file. Until process ends , dont kill that. ( I have stored the results in Output1.json)
